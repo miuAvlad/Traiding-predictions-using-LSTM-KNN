@@ -1,1 +1,1 @@
-# Traiding-predictions-using-LSTM-KNN-
+# Traiding predictions using LSTM and KNN
